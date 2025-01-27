@@ -1,6 +1,6 @@
 # Ignore virtual environment folder
 venv/
-simpleRNN
+simpleRNN/
 
 # Python cache files
 *.pyc
