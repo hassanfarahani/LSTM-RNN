@@ -1,5 +1,6 @@
 # Ignore virtual environment folder
 venv/
+simpleRNN
 
 # Python cache files
 *.pyc
@@ -26,4 +27,5 @@ __pycache__/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
 
